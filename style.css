@@ -1,0 +1,109 @@
+#logo-name {
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700px;
+    font-style: normal;
+}
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+}
+#side-bar-displays {
+    display: flex;
+   align-items: center;
+    justify-content: space-around;
+    
+    width: 100px;
+}
+#side-options {
+    scale: 1.2;
+    margin-left: 50px;
+}
+#side-bar {
+    border: 1px solid grey;
+    width: 200px;
+    height: 630px;
+    border-top-left-radius: 21px;
+    border-bottom-left-radius: 21px;
+    }
+#women {
+    border: 1px solid rgb(252, 198, 206);
+    color: white;
+    background-color: rgb(252, 198, 206);
+    border-radius: 6px;
+    display: flex;
+    width: 130px;
+    height: 35px;
+    justify-content: space-around;
+    align-items: center;
+}
+#men {
+    border: 1px solid (250 245 245);
+
+    background-color: rgb(250 245 245);
+    border-radius: 6px;
+    display: flex;
+    width: 130px;
+    height: 35px;
+    justify-content: space-around;
+    align-items: center;
+}
+#buttonat {
+    border: 1px solid rgb(250 245 245);
+    border-radius: 6px;
+    width: 280px;
+    height: 45px;
+    background-color: rgb(250 245 245);
+    border: 6px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#search {
+    display: flex;
+    
+    align-items: center;
+    width: 340px;
+    height: 45px;
+    background-color: rgb(250 245 245);
+    border-radius: 6px;
+}
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    width: 1100px;
+}
+#billie {
+    border: 1px solid #ffffaa;
+    width: 500px;
+    height: 150px;
+    background-color: #ffffaa;
+    border-radius: 15px;
+}
+#get-up {
+    border: 1px solid #aad3ff;
+    width: 500px;
+    height: 150px;
+    background-color: #aad3ff;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+#react {
+    margin-top: 40px;
+    border: 1px solid;
+    width: 250px;
+    height: 320px;
+    background-color: #e6e2e2;
+    border-radius: 15px;
+border: 1px solid #e6e2e2;
+}
+#shoes {
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+}
