@@ -22,9 +22,9 @@ body {
     margin-left: 50px;
 }
 #side-bar {
-    border: 1px solid grey;
+    border: 1px solid rgb(196, 196, 196);
     width: 200px;
-    height: 630px;
+    height: 780px;
     border-top-left-radius: 21px;
     border-bottom-left-radius: 21px;
     }
